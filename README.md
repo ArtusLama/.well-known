@@ -1,2 +1,1 @@
-# .well-known
-For linking the discord domain connection
+# For linking the discord domain connection
